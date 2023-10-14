@@ -13,10 +13,10 @@ I'm presently immersing myself in learning more about machine learning models. M
 
 ## 🌱 Goals for 2023
 
-**Skill Enhancement:** Explore modern backend technologies, starting with an in-depth look at GraphQL  
-**Networking:** Attend at least two tech conferences or workshops, aiming to connect with industry professionals  
-**Continuous Learning:** Read the last two editions of the MIT Technology Review published in 2023 to get a better grasp on current innovations  
-**Innovation:** Start conceptualizing a software solution to address a global issue, laying groundwork for future development
+**Skill Enhancement:** Explore modern backend technologies, starting with an in-depth look at GraphQL.  
+**Networking:** Attend at least two tech conferences or workshops, aiming to connect with industry professionals.  
+**Continuous Learning:** Read the last two editions of the MIT Technology Review published in 2023 to get a better grasp on current innovations.  
+**Innovation:** Start conceptualizing a software solution to address a global issue, laying groundwork for future development.
 
 ## 🤝 Let's Connect!
 Feel free to reach out to me:
